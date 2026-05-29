@@ -100,3 +100,5 @@ This is a pure Rust port with no Python FFI. All algorithms are reimplemented id
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
