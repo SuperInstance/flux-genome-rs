@@ -2,6 +2,10 @@
 
 Rust port of [flux-genome](https://github.com/SuperInstance/flux-genome) — a genetic algorithm framework for evolving musical traditions in dial space.
 
+<p align="center">
+  <img src="assets/images/hero.jpg" width="680" alt="A wall of brass dials in a dark workshop, each set to a different angle — a genome of musical tradition, one dial glowing as it is selected">
+</p>
+
 ## Overview
 
 A `MusicalGenome` is a vector of 25 genes (`f64` in `[0, 5]`) encoding a musical tradition's position in "dial space". The phenotype is a 3-tuple `(harmonic, rhythmic, spectral)` computed by averaging each 8-gene block.
